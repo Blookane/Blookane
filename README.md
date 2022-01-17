@@ -8,7 +8,7 @@ Hi! My name is Ermano and I like coding/programming, I mostly make games in Unit
 
 - 📫 How to reach me: ermano.giskes@gmail.com.
 - 😄 Pronouns: Blookane, Ermano, Mando.
-- 🎮 [My itch.io page](blookane.itch.io) (hyperlink).
+- 🎮 [My itch.io page](https://itch.io/profile/blookane) (hyperlink).
 - ⚡ Fun fact: I play games and like to flip.
 
 ## Top Technologies
