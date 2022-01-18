@@ -7,7 +7,7 @@ Hi! My name is Ermano and I like coding/programming, I mostly make games in Unit
 - ⚒ Currently working on: learning C#
 - 📫 How to reach me: ermano.giskes@gmail.com.
 - 😄 Pronouns: Blookane, Ermano, Mando.
-- ⚡ Fun fact: I play games and like to flip.
+- ⚡ Fun fact: I play games and like to sport.
 
 ## ⚙ Technology Stack
 
@@ -19,7 +19,5 @@ Hi! My name is Ermano and I like coding/programming, I mostly make games in Unit
 
 ## :mailbox: Socials/Contact
 
-[![Mail Badge](https://img.shields.io/badge/-Blookane-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvtY8s6xlrthfji7WUMpFZQ) [![Linkedin Badge](https://img.shields.io/badge/-Ermano-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermano-giskes-749419215/) [![Mail Badge](https://img.shields.io/badge/-Ermano-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ermano.giskes@gmail.com)
-[![Itch.io Badge](https://img.shields.io/badge/Blookane-FA5C5C?style=for-the-badge&labelColor=FA5C5C&logo=itchdotio&logoColor=white)](https://itch.io/profile/blookane)
-[![Twitch Badge](https://img.shields.io/badge/Blookane-9146FF?style=for-the-badge&labelColor=9146FF&logo=twitch&logoColor=white)](https://www.twitch.tv/blookane)
+[![Mail Badge](https://img.shields.io/badge/-Blookane-e74c3c?style=for-the-badge&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCvtY8s6xlrthfji7WUMpFZQ) [![Linkedin Badge](https://img.shields.io/badge/-Ermano-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ermano-giskes-749419215/) [![Mail Badge](https://img.shields.io/badge/-Ermano-c0392b?style=for-the-badge&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ermano.giskes@gmail.com) [![Itch.io Badge](https://img.shields.io/badge/Blookane-FA5C5C?style=for-the-badge&labelColor=FA5C5C&logo=itchdotio&logoColor=white)](https://itch.io/profile/blookane) [![Twitch Badge](https://img.shields.io/badge/Blookane-9146FF?style=for-the-badge&labelColor=9146FF&logo=twitch&logoColor=white)](https://www.twitch.tv/blookane)
 
